@@ -1,8 +1,8 @@
-# 5-tipos-de-arquiteturas-de-RAG
+# 5-tipos-de-arquiteturas-de-RAG-
 
 # 5 arquiteturas famosas de RAG Multiagentes utilizadas no mercado
 
-O mercado de IA generativa já ultrapassou o modelo tradicional de RAG com apenas um agente que consulta documentos e responde ao usuário.
+O mercado de IA generativa já ultrapassou o modelo tradicional de RAG com apenas um agente que consulta documentos e responde ao usuário-
 
 Hoje, arquiteturas mais sofisticadas utilizam múltiplos agentes especializados, orquestradores, mecanismos de recuperação de informações e validação cruzada.
 
