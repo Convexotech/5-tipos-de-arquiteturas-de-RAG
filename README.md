@@ -1,0 +1,1 @@
+# 5-tipos-de-arquiteturas-de-RAG
